@@ -1,3 +1,2 @@
-# Python-Projects
-Some basic Python Codes.
-This repository was created to bank all the small programs made during my pursue of Python in Classes 11th and 12th.
+# Password Generator
+This program generates a password with a combination of alphabets, numbers, special symbols. Random library is used to increase the complexity of the password.
